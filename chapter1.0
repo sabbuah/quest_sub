@@ -2,8 +2,8 @@ Day 1:
 Explain what the Blockchain is in your own words. You can read this to help you, but you don't have to: https://www.investopedia.com/terms/b/blockchain.asp
 *The blockchain is an open/public database that can be used store and interested with any information. 
 
-
 Explain what a Smart Contract is. You can read this to help you, but you don't have to: https://www.ibm.com/topics/smart-contracts
+*A smart contract a set of programming language that contains the information being stored on the blockchain and also how the end user can interact with it 
 
 Explain the difference between a script and a transaction.
 *A script is read only and can't change anything about the blockchain.

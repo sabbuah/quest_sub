@@ -7,4 +7,10 @@ Explain what a Smart Contract is. You can read this to help you, but you don't h
 
 Explain the difference between a script and a transaction.
 *A script is read only and can't change anything about the blockchain.
-*A transaction does change things in the blockchain and could cost a lot of money per transaction, but on flow the cost is low
+*A transaction does change things in the blockchain and could cost a lot of money per transaction, but on flow the cost is low.
+
+
+Day 2:
+What are the 5 Cadence Programming Language Pillars?
+
+In your opinion, even without knowing anything about the Blockchain or coding, why could the 5 Pillars be useful (you don't have to answer this for #5)?
